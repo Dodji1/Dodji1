@@ -62,27 +62,30 @@
 *Transitions Développement Durable – Paris, France*  
 **Avril 2022 – Présent (2 ans 8 mois)**  
 
-- 🔹 Coordination des équipes data (junior et stagiaire)  
-- 🔹 Création et optimisation de pipelines ETL  
-- 🔹 Modélisation UML et déploiement de bases de données  
-- 🔹 Analyses prédictives pour évaluer les risques de déforestation  
+🔹 Coordination des équipes data (junior et stagiaire)  
+🔹 Création et optimisation de pipelines ETL  
+🔹 Modélisation UML et déploiement de bases de données  
+🔹 Analyses prédictives pour évaluer les risques de déforestation  
 
 ### **Formateur et Chef de Projet en IA**  
 *Bénin Excellence – Fondation Vallet, Cotonou, Bénin*  
-**Juillet – Août 2023, Juillet – Août 2024**  
+**Juillet – Août 2024, Juillet – Août 2025**  
 
-- 🧑‍🏫 Initiation des étudiants à l’IA et au Machine Learning  
-- 🔍 **Projet** : Modèle NLP pour le résumé de textes légaux  
+🔹🧑‍🏫 Initiation des étudiants à l’IA et au Machine Learning  
+🔹 🔍 **Projet** : Modèle NLP pour le résumé de textes légaux  
 
 ---
 
 ## 🎓 **Formations**
 
-- **Master** : Econométrie, Big Data, Statistiques (EBDS)  
+🔹 **Master** : Econométrie, Big Data, Statistiques (EBDS)  
   *Aix-Marseille School of Economics, 2020 – 2022*  
 
-- **Licence** : Statistiques Appliquées  
+🔹 **Licence** : Statistiques Appliquées  
   *École Nationale d’Économie Appliquée et de Management, 2015 – 2018*  
+
+🔹 **Licence** : Economie Appliquée  
+  *Faculté des Sciences Economique et de Gestion, 2015 – 2018*
 
 ---
 
@@ -98,9 +101,9 @@
 
 ## 🥇 **Certifications**
 
-![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png) **Google Cloud Database Engineer (2024)** 
-![Python](https://img.icons8.com/color/48/000000/python.png) **Python for Data Science, AI & Development (2024)**  
-![Azure](https://img.icons8.com/color/48/000000/azure-1.png) **Solution Big Data avec Azure (2024)** 
+🔹![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png) **Google Cloud Database Engineer (2024)** 
+🔹![Python](https://img.icons8.com/color/48/000000/python.png) **Python for Data Science, AI & Development (2024)**  
+🔹![Azure](https://img.icons8.com/color/48/000000/azure-1.png) **Solution Big Data avec Azure (2024)** 
 ---
 
 ## 📊 **Statistiques GitHub**
