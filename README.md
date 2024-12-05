@@ -17,8 +17,9 @@
 <h2>🌟 À propos de moi</h2>
 <img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 
-- 🎓 Analytics & Data Engineer passionné par les solutions d'analyse et de transformation de données.  
-- 🎓 Une base en Statistics, économétrie et Machine Learning.  
+- 🎓 Analytics & Data Engineer passionné par de developpement de solutions et projet IA
+
+- ⚡ Enthousiaste des défis liés aux systèmes de transformation de données et aux modèles prédictifs.  
 
 - 🎯 Transformer les données complexes en insights stratégiques et solutions optimisées.
 
@@ -26,7 +27,6 @@
 
 - 🤝 Collaboration et esprit d'équipe sont au cœur de ma pratique professionnelle.
 
-- ⚡ Enthousiaste des défis liés aux systèmes de données distribués et aux modèles prédictifs.  
 - 📫 Vous pouvez me joindre via mon email ou LinkedIn.
 
 ---
@@ -98,9 +98,9 @@
 
 ## 🥇 **Certifications**
 
-- ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png) **Google Cloud Database Engineer** (2024)  
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python for Data Science, AI & Development** (2024)  
-- ![Azure](https://img.icons8.com/color/48/000000/azure-1.png) **Solution Big Data avec Azure** (2024)
+![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png) **Google Cloud Database Engineer (2024)** 
+![Python](https://img.icons8.com/color/48/000000/python.png) **Python for Data Science, AI & Development (2024)**  
+![Azure](https://img.icons8.com/color/48/000000/azure-1.png) **Solution Big Data avec Azure (2024)** 
 ---
 
 ## 📊 **Statistiques GitHub**
@@ -113,6 +113,4 @@
 
 ## 📫 **Contact**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vital-guinguinni)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guinguinnivital@gmail.com)  
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Merci+d'avoir+visité+mon+profil+GitHub!)](https://git.io/typing-svg)
