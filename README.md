@@ -101,9 +101,12 @@
 
 ## 🥇 **Certifications**
 
-🔹![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png) **Google Cloud Database Engineer (2024)** 
-🔹![Python](https://img.icons8.com/color/48/000000/python.png) **Python for Data Science, AI & Development (2024)**  
-🔹![Azure](https://img.icons8.com/color/48/000000/azure-1.png) **Solution Big Data avec Azure (2024)** 
+| **Framework**                               | **Description**                                    |
+|------------------------------------------|---------------------------------------------------|
+| [Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)      | Google Cloud Database Engineer (2024) |
+| [Python](https://img.icons8.com/color/48/000000/python.png)  | Python for Data Science, AI & Development (2024) |
+| [Azure](https://img.icons8.com/color/48/000000/azure-1.png)     | Solution Big Data avec Azure (2024)              |
+ 
 ---
 
 ## 📊 **Statistiques GitHub**
