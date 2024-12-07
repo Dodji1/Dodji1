@@ -78,14 +78,17 @@
 
 ## 🎓 **Formations**
 
-🔹 **Master** : Econométrie, Big Data, Statistiques (EBDS)  
-  *Aix-Marseille School of Economics, 2020 – 2022*  
+**Master Econométrie, Big Data, Statistiques (EBDS)**   
+*Aix-Marseille School of Economics – Marseille, France*  
+**2020 – 2022 (2 ans)**  
 
-🔹 **Licence** : Statistiques Appliquées  
-  *École Nationale d’Économie Appliquée et de Management, 2015 – 2018*  
+**Statistiques Appliquées**    
+*École Nationale d’Économie Appliquée et de Management – Cotonou, Bénin*  
+**2015 – 2018 (3 ans)**  
 
-🔹 **Licence** : Economie Appliquée  
-  *Faculté des Sciences Economique et de Gestion, 2015 – 2018*
+**Economie Appliquée**    
+*Faculté des Sciences Economique et de Gestion – Cotonou, Bénin*  
+**2015 – 2018 (3 ans)**  
 
 ---
 
@@ -103,9 +106,9 @@
 
 | **Framework**                               | **Description**                                    |
 |------------------------------------------|---------------------------------------------------|
-| [Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)      | Google Cloud Database Engineer (2024) |
-| [Python](https://img.icons8.com/color/48/000000/python.png)  | Python for Data Science, AI & Development (2024) |
-| [Azure](https://img.icons8.com/color/48/000000/azure-1.png)     | Solution Big Data avec Azure (2024)              |
+| ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)      | Google Cloud Database Engineer (2024) |
+| ![Python](https://img.icons8.com/color/48/000000/python.png)  | Python for Data Science, AI & Development (2024) |
+| ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)     | Solution Big Data avec Azure (2024)              |
  
 ---
 
