@@ -10,7 +10,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" alt="Bienvenue" width="400"height="300">
 
--->
+---
 
 <p align="right">
 <h2>🌟 À propos de moi</h2>
@@ -26,6 +26,8 @@
 - 🤝 Collaboration et esprit d'équipe sont au cœur de ma pratique professionnelle.
 
 - 📫 Vous pouvez me joindre via mon email ou LinkedIn.
+
+---
 
 ## 🔧 **Compétences**
 
@@ -53,6 +55,7 @@
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ## 🏆 **Projets GitHub**
 
