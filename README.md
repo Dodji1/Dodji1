@@ -27,7 +27,7 @@
 
 - 📫 Vous pouvez me joindre via mon email ou LinkedIn.
 
---
+  
 
 ## 🔧 **Compétences**
 
@@ -55,8 +55,7 @@
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
---
+  
 
 ## 🏆 **Projets GitHub**
 
@@ -66,7 +65,7 @@
 | [Analyse du risque de déforestation](#)  | Modèles de classification                        |
 | [Résumé automatique de documents](#)     | NLP & Fine-tuning                                |
 
---
+  
 
 ## 🥇 **Certifications**
 
@@ -76,8 +75,7 @@
 | ![Python](https://img.icons8.com/color/48/000000/python.png)  | Python for Data Science, AI & Development (2024) |
 | ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)     | Solution Big Data avec Azure (2024)              |
 
-
---
+  
 
 ## 📊 **Statistiques GitHub**
 
