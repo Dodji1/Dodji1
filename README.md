@@ -33,6 +33,7 @@
 ## 🔧 **Compétences**
 
 ### **Langages et Technologies**
+<img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 - **Langages** :  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
