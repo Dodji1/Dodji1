@@ -68,12 +68,15 @@
 ![Vital Guinguinni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dodji1&show_icons=true&theme=radical)
 
 ---------------------------------------------------------
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vital-guinguinni)  
+
+<p align="Center">
+<img src="img/readmeimg.gif" align="center" alt="Bienvenue" width="400"height="400">
+
+---------------------------------------------------------
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vital-guinguinni)  
-  ![Profile views](https://komarev.com/ghpvc/?username=vitalguinguinni)
-  ![Version](https://img.shields.io/badge/version-1.0-green.svg)
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDodji1&countColor=%23263759" alt="visitor_badge">
+</p>
 
-<p align="right">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Merci+d'avoir+visité+mon+profil+GitHub!)](https://git.io/typing-svg)
-  <img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Merci+d'avoir+visité+mon+profil+GitHub!)](https://git.io/typing-svg)
