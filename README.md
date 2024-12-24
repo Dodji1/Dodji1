@@ -69,14 +69,11 @@
 
 ---------------------------------------------------------
 <p align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vital-guinguinni)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Merci+d'avoir+visité+mon+profil+GitHub!)](https://git.io/typing-svg)
+![Profile views](https://komarev.com/ghpvc/?username=vitalguinguinni)
+![Version](https://img.shields.io/badge/version-1.0-green.svg)
 
-  ![Profile views](https://komarev.com/ghpvc/?username=vitalguinguinni)
-  ![Version](https://img.shields.io/badge/version-1.0-green.svg)
-
-</p>
 <p align="right">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Merci+d'avoir+visité+mon+profil+GitHub!)](https://git.io/typing-svg)
 <img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 
