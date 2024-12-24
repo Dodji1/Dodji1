@@ -56,42 +56,6 @@
 
 ---
 
-## 🚀 **Expériences Professionnelles**
-
-### **Lead Data Engineer BI**  
-*Transitions Développement Durable – Paris, France*  
-**Avril 2022 – Présent (2 ans 8 mois)**  
-
-🔹 Coordination des équipes data (junior et stagiaire)  
-🔹 Création et optimisation de pipelines ETL  
-🔹 Modélisation UML et déploiement de bases de données  
-🔹 Analyses prédictives pour évaluer les risques de déforestation  
-
-### **Formateur et Chef de Projet en IA**  
-*Bénin Excellence – Fondation Vallet, Cotonou, Bénin*  
-**Juillet – Août 2024, Juillet – Août 2025**  
-
-🔹🧑‍🏫 Initiation des étudiants à l’IA et au Machine Learning  
-🔹 🔍 **Projet** : Modèle NLP pour le résumé de textes légaux  
-
----
-
-## 🎓 **Formations**
-
-**Master Econométrie, Big Data, Statistiques (EBDS)**   
-*Aix-Marseille School of Economics – Marseille, France*  
-**2020 – 2022 (2 ans)**  
-
-**Statistiques Appliquées**    
-*École Nationale d’Économie Appliquée et de Management – Cotonou, Bénin*  
-**2015 – 2018 (3 ans)**  
-
-**Economie Appliquée**    
-*Faculté des Sciences Economique et de Gestion – Cotonou, Bénin*  
-**2015 – 2018 (3 ans)**  
-
----
-
 ## 🏆 **Projets GitHub**
 
 | **Projet**                               | **Description**                                    |
