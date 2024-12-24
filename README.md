@@ -10,7 +10,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" alt="Bienvenue" width="400"height="300">
 
--->
+---
 
 <p align="right">
 <h2>🌟 À propos de moi</h2>
@@ -27,7 +27,7 @@
 
 - 📫 Vous pouvez me joindre via mon email ou LinkedIn.
 
-  
+  ---
 
 ## 🔧 **Compétences**
 
@@ -43,7 +43,6 @@
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
   ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
   
-
 - **Bases de données** :  
   ![Snowflake](https://img.shields.io/badge/Snowflake-0292D1?style=for-the-badge&logo=snowflake&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,7 +54,8 @@
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  
+
+---  
 
 ## 🏆 **Projets GitHub**
 
@@ -65,7 +65,7 @@
 | [Analyse du risque de déforestation](#)  | Modèles de classification                        |
 | [Résumé automatique de documents](#)     | NLP & Fine-tuning                                |
 
-  
+---
 
 ## 🥇 **Certifications**
 
@@ -75,7 +75,7 @@
 | ![Python](https://img.icons8.com/color/48/000000/python.png)  | Python for Data Science, AI & Development (2024) |
 | ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)     | Solution Big Data avec Azure (2024)              |
 
-  
+---  
 
 ## 📊 **Statistiques GitHub**
 
