@@ -14,7 +14,7 @@
 <p align="right">
 <h2>🌟 À propos de moi</h2>
 
-🎓 Analytics & Data Engineer passionné par le developpement de solutions data driven dans des projets d'IA.
+🎓 Analytics & Data Engineer passionné par le developpement de solutions data dans des projets d'IA.
 
 ⚡ Enthousiaste des défis liés aux systèmes de transformation de données et aux modèles prédictifs.  
 
@@ -56,14 +56,18 @@
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 
-----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+
 
 <p align="right">
 <h2>📊 Statistiques GitHub</h2>
 
 ![Vital Guinguinni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dodji1&show_icons=true&theme=radical)
 
----------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vital-guinguinni)  
 
@@ -72,7 +76,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Merci+d'avoir+visité+mon+profil+GitHub!)](https://git.io/typing-svg)
 
-----------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+
+
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDodji1&countColor=%23263759" alt="visitor_badge">
 </p>
