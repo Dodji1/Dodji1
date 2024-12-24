@@ -15,7 +15,7 @@
 
 <p align="right">
 <h2>🌟 À propos de moi</h2>
-<img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
+#<img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 
 - 🎓 Analytics & Data Engineer passionné par le developpement de solutions data driven dans des projets d'IA.
 
