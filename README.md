@@ -54,7 +54,6 @@
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 🏆 **Projets GitHub**
 
@@ -73,16 +72,12 @@
 | ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)      | Google Cloud Database Engineer (2024) |
 | ![Python](https://img.icons8.com/color/48/000000/python.png)  | Python for Data Science, AI & Development (2024) |
 | ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)     | Solution Big Data avec Azure (2024)              |
- 
----
 
 ## 📊 **Statistiques GitHub**
 
 ![Vital Guinguinni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dodji1&show_icons=true&theme=radical)
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodji1&layout=compact&theme=radical)
-
----
 
 ## 📫 **Contact**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vital-guinguinni)  
