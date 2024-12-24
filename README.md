@@ -56,9 +56,11 @@
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 
+<br />
+<br />
+<br />
 
 --------------------------------------------------------------------------------------------------------
-
 
 <p align="right">
 <h2>📊 Statistiques GitHub</h2>
