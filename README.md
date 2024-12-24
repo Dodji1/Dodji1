@@ -30,6 +30,7 @@
 ## 🔧 **Compétences**
 
 ### **Langages et Technologies**
+  <p align="right">
   <img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 
 - **Langages** :  
