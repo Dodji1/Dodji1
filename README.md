@@ -75,8 +75,7 @@
 <img src="img/readmeimg.gif" align="center" alt="Bienvenue" width="400"height="400">
 
 ---------------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Merci+d'avoir+visité+mon+profil+GitHub!)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDodji1&countColor=%23263759" alt="visitor_badge">
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Merci+d'avoir+visité+mon+profil+GitHub!)](https://git.io/typing-svg)
