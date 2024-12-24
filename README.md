@@ -77,6 +77,6 @@
   ![Version](https://img.shields.io/badge/version-1.0-green.svg)
 
 </p>
-
+<p align="right">
 <img src="img/readmeimg.gif" align="right" alt="Bienvenue" width="400"height="400">
 
