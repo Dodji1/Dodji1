@@ -12,8 +12,6 @@
 
 
 <p align="right">
-<h2>🌟 À propos de moi</h2>
-
 <div style="text-align: left;background-color:#371de3; font-family:monospace; color: white; padding: 14px; line-height: 1; border-radius:10px"> 🌟 À propos de moi </div>  
 
 🎓 Analytics & Data Engineer passionné par le developpement de solutions data dans des projets d'IA.
