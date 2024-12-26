@@ -1,7 +1,7 @@
 <!--![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)-->
 
 # 👋 Bonjour, je suis **Vital GUINGUINNI**
-**`💼 Analytics & Data Engenieer `**  
+**`💼 Analytics & Data Engenieer - Python | Azure | GCP`**  
 
 <!--<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=mslouma88" alt="mslouma88" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mslouma88&label=Profile%20views&color=0e75b6&style=flat" alt="mslouma88" /> </p>
