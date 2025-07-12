@@ -14,7 +14,7 @@
 <p align="right">
 <h2>🌟 À propos de moi</h2>
   
-🎓 Analytics & Data Engineer passionné par le developpement de solutions data dans des projets d'IA.
+🎓 Analytics & Data Engineer passionné par le developpement de solutions data-driven dans des projets d'IA.
 
 ⚡ Enthousiaste des défis liés aux systèmes de transformation de données et aux modèles prédictifs.  
 
