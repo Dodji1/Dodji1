@@ -62,14 +62,6 @@
 
 --------------------------------------------------------------------------------------------------------
 
-<p align="right">
-<h2>📊 Statistiques GitHub</h2>
-
-![Vital Guinguinni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dodji1&show_icons=true&theme=radical)
-
-
---------------------------------------------------------------------------------------------------------
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vital-guinguinni)  
 
